@@ -9,3 +9,7 @@ Find ralationship between YouTube Videos matadata using linear regrassion algori
 
 Views : Comment : Likes : Dislikes
 10000 :   1.8   :  26   :  2
+
+find relationship ignoring useless data
+Views : Comment : Likes : Dislikes
+10000 :   5.5   :  53.8   :  3.3
