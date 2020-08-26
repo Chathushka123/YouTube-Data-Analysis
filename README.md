@@ -14,3 +14,14 @@ find relationship ignoring useless data
 
 Views : Comment : Likes : Dislikes
 10000 :   5.5   :  53.8   :  3.3
+
+
+Get train data from considering only three category
+    Draw histogram for video categories and their total number of views
+    1 Take all data from most frequent video category
+    2 Take all data from medium frequent video category
+    3 Take all data from dmallest frequent video category
+    
+    Tehen find the relationship 
+      Views : like : Dislike
+      10000 : 89.7 :3.9
